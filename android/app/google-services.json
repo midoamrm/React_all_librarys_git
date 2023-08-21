@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513642723012",
+    "project_id": "reactnativeplayground-8036f",
+    "storage_bucket": "reactnativeplayground-8036f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513642723012:android:20f5bed9f4626c37563b91",
+        "android_client_info": {
+          "package_name": "com.reactplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513642723012-l7ojd44meiq83cfipd4vtjh59vusp8mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVr2PxRdFkhkONNYEaZRtR55By6p4sLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513642723012-l7ojd44meiq83cfipd4vtjh59vusp8mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
